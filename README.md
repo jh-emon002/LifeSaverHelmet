@@ -80,11 +80,6 @@ A smart IoT-based helmet system that enhances motorcycle safety by detecting acc
   - Pair with the helmet Bluetooth module
   - Navigate the user-friendly interface to access all features
 
----
-
-## 📷 Screenshots
-
-> *(Include screenshots from the app showing each function)*
 
 ---
 
