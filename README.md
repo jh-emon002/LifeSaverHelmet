@@ -83,7 +83,7 @@ A smart IoT-based helmet system that enhances motorcycle safety by detecting acc
 
 ---
 ## Screenshots
-![Homepage](https://raw.githubusercontent.com/jh-emon002/LifeSaverHelmet/master/images/app status.jpg)
+![Homepage](https://raw.githubusercontent.com/jh-emon002/LifeSaverHelmet/master/images/app_status.jpg)
 
 
 
