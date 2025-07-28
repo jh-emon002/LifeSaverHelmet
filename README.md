@@ -100,7 +100,8 @@ A smart IoT-based helmet system that enhances motorcycle safety by detecting acc
 - Md. Jaied Hasan  
 - Erom Hasan Niha  
 - Amir Hamza  
-- Ayon Kumar Dey  
+- Ayon Kumar Dey
+  
 **Department of EEE**, Bangladesh University of Engineering and Technology (BUET)
 
 ---
