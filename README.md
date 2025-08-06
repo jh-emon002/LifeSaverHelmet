@@ -93,6 +93,11 @@ A smart IoT-based helmet system that enhances motorcycle safety by detecting acc
 
 
 ---
+
+## 📸 Demo Video
+[![Demo Video](https://img.shields.io/badge/-Watch%20on%20YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/J3VwUqcD1PA)
+
+---
 ## 👥 Credits
 
 **Project Name**: LifeSaver Helmet  
